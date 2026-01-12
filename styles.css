@@ -7,9 +7,8 @@ body {
 .container {
     background-color: white;
     width: 400px;
-    height: 400px;
-    margin: auto;
     height: 280px;
+    margin: auto;
 }
 
 .container-header {
