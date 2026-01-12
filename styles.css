@@ -44,10 +44,10 @@ img {
     text-align: center;
 }
 
-.footter a {
+.footter button {
     background-color: gainsboro;
     padding: 5px;
-    border-radius: 5px;
     text-decoration: none;
     color: black;
+    border: none;
 }
